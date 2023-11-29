@@ -1,0 +1,15 @@
+C:\Users\www\RiderProjects\СПР_5\СПР_5\bin\Debug\net7.0\СПР_5.exe
+C:\Users\www\RiderProjects\СПР_5\СПР_5\bin\Debug\net7.0\СПР_5.deps.json
+C:\Users\www\RiderProjects\СПР_5\СПР_5\bin\Debug\net7.0\СПР_5.runtimeconfig.json
+C:\Users\www\RiderProjects\СПР_5\СПР_5\bin\Debug\net7.0\СПР_5.dll
+C:\Users\www\RiderProjects\СПР_5\СПР_5\bin\Debug\net7.0\СПР_5.pdb
+C:\Users\www\RiderProjects\СПР_5\СПР_5\obj\Debug\net7.0\СПР_5.csproj.AssemblyReference.cache
+C:\Users\www\RiderProjects\СПР_5\СПР_5\obj\Debug\net7.0\СПР_5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\www\RiderProjects\СПР_5\СПР_5\obj\Debug\net7.0\СПР_5.AssemblyInfoInputs.cache
+C:\Users\www\RiderProjects\СПР_5\СПР_5\obj\Debug\net7.0\СПР_5.AssemblyInfo.cs
+C:\Users\www\RiderProjects\СПР_5\СПР_5\obj\Debug\net7.0\СПР_5.csproj.CoreCompileInputs.cache
+C:\Users\www\RiderProjects\СПР_5\СПР_5\obj\Debug\net7.0\СПР_5.dll
+C:\Users\www\RiderProjects\СПР_5\СПР_5\obj\Debug\net7.0\refint\СПР_5.dll
+C:\Users\www\RiderProjects\СПР_5\СПР_5\obj\Debug\net7.0\СПР_5.pdb
+C:\Users\www\RiderProjects\СПР_5\СПР_5\obj\Debug\net7.0\СПР_5.genruntimeconfig.cache
+C:\Users\www\RiderProjects\СПР_5\СПР_5\obj\Debug\net7.0\ref\СПР_5.dll
